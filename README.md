@@ -39,4 +39,5 @@ MedEd (Medical Education) tools
 Diagnostic reasoning assistants
 
 🔐 Note: This release includes only the 4-bit quantized (4Q) version of the model, optimized for resource-constrained deployment.
-Note: the model file on huggingface 
+
+Note: the model file on Huggingface via https://huggingface.co/AliNadhir/SINA-Medical-Reasoning-LLM
